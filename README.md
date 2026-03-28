@@ -46,21 +46,17 @@
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Yashtyagi2406&theme=radical&row=1&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yashtyagi2406&theme=tokyonight&row=1&column=6&margin-w=10" />
 
 ---
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Yashtyagi2406&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+### 🔝 Featured Project
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashtyagi2406&repo=YOUR_REPO_NAME&theme=tokyonight" />
 
 ---
 
 ## 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Yashtyagi2406&label=Profile%20views&color=0e75b6&style=flat" />
-
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=YashTyagi2406&icon=0&color=0)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
