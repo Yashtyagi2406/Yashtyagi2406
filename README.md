@@ -52,15 +52,4 @@
 </p>
 
 ---
-
-### 🔝 Featured Project
-<!-- Replace YOUR_REPO_NAME below with your actual repo name, e.g. my-portfolio -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashtyagi2406&repo=YOUR_REPO_NAME&theme=tokyonight" />
-
----
-
-## 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=Yashtyagi2406&label=Profile%20views&color=0e75b6&style=flat" />
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
