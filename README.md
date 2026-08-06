@@ -148,9 +148,9 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashtyagi2406&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yashtyagi2406&show_icons=true&theme=tokyonight&count_private=true" alt="Yash's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashtyagi2406&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Yashtyagi2406&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -158,7 +158,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashtyagi2406&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Yashtyagi2406&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
