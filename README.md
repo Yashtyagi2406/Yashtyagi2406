@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>B.Tech in Computer Science & Engineering</b> @ KCC Institute of Technology & Management (2023–2027) | CGPA: 8.0/10.0<br/>
+  🎓 <b>B.Tech in Computer Science & Engineering</b> @ KCC Institute of Technology & Management (2023–2027) |<br/>
   📍 Noida, UP, India
 </p>
 
